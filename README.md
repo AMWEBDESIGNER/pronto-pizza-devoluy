@@ -14,4 +14,6 @@ Vitrine statique pour **Pronto Pizza**, traiteur, snack et pizzeria de Superdév
 - GitHub : https://github.com/AMWEBDESIGNER/pronto-pizza-devoluy
 - Pages : https://pronto-pizza-devoluy.pages.dev
 
-La carte, les prix, horaires, périmètre de livraison et les médias doivent être validés directement par Pronto Pizza. Maquette indépendante sans affiliation.
+## Parcours livré
+
+L’accueil est complété par `carte.html` et `infos.html`, avec commande directe, services emporter/livraison/traiteur, adresse et itinéraire. La carte, les prix, horaires, périmètre de livraison et les médias doivent être validés directement par Pronto Pizza. Maquette indépendante sans affiliation.
