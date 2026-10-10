@@ -17,3 +17,7 @@ Vitrine statique pour **Pronto Pizza**, traiteur, snack et pizzeria de Superdév
 ## Parcours livré
 
 L’accueil est complété par `carte.html` et `infos.html`, avec commande directe, services emporter/livraison/traiteur, adresse et itinéraire. La carte, les prix, horaires, périmètre de livraison et les médias doivent être validés directement par Pronto Pizza. Maquette indépendante sans affiliation.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
